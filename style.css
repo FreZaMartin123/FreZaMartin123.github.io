@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to right, #3f1010 25%, #3f1010 40%, #3f1010 75%, #3f1010 80%) !important;
+}
+
+.navbar {
+    background: linear-gradient(to right, #170F0F 25%, #251F1F 40%, #251F1F 75%, #170F0F 80%);
+}
+
+.carousel-caption {
+    top: 65%;
+    transform: translateY(-50%);
+    bottom: initial;
+}
